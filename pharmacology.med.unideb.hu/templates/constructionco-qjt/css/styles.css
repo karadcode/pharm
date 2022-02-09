@@ -55,13 +55,13 @@ text-transform: uppercase; font-size:12px;font-weight:normal; font-family: 'Cupr
 .topmenu ul li ul li a:hover, .topmenu ul li ul li.active a, .topmenu ul li.active ul li a:hover, .topmenu ul li.active ul li.active a {margin:0; padding:0 0 0 10px;height:24px;line-height:24px;background:#343434;color:#fff; font-size:11px;text-shadow:none;}
 .topmenu ul li ul ul, .topmenu ul li:hover ul ul, .topmenu ul li:hover ul ul ul, .topmenu ul li:hover ul ul ul ul, .topmenu ul li.sfHover ul ul, .topmenu ul li.sfHover ul ul ul, .topmenu ul li.sfHover ul ul ul ul {left:-999em;}
 
-#slide-w { margin:0; padding:0; background:#EAEAEA url(http://pharmacology.med.unideb.hu/templates/constructionco-qjt/images/bg.png) 0 0 repeat-x; border-bottom:1px solid #d6d6d6;border-top:1px solid #f5f5f5;}
+#slide-w { margin:0; padding:0; background:#EAEAEA url(../images/bg.png) 0 0 repeat-x; border-bottom:1px solid #d6d6d6;border-top:1px solid #f5f5f5;}
 #slide { width:960px; margin:0 auto;}
 
 /* Navigation */
 #nav {}
 #navl {}
-#navr {height:55px; width: 981px; background:url(http://pharmacology.med.unideb.hu/templates/constructionco-qjt/images/mainmenu.png) 0 0 repeat-x; font-family: 'Cuprum', sans-serif;}
+#navr {height:55px; width: 981px; background:url(../images/mainmenu.png) 0 0 repeat-x; font-family: 'Cuprum', sans-serif;}
 #nav {z-index:10; position:relative;}
 #nav-left { float:left; width:80%;}
 #nav-right { float:right; width:20%;}
@@ -69,7 +69,7 @@ text-transform: uppercase; font-size:12px;font-weight:normal; font-family: 'Cupr
 #nav ul li {list-style:none;float:left;height:100%;position:relative; padding-right:1px; margin:0;}
 #nav ul li a { display:block;padding:0 15px 0 15px; text-shadow: none; line-height:55px; color:#fff; text-decoration:none;font-size:17px;font-weight:normal; }
 #nav ul li.active {}
-#nav ul li.active a, #nav ul li a:hover {color:#ccff00; text-shadow: none; background:url(http://pharmacology.med.unideb.hu/templates/constructionco-qjt/images/mainmenu-h.png) 0 0 repeat-x; }
+#nav ul li.active a, #nav ul li a:hover {color:#ccff00; text-shadow: none; background:url(../images/mainmenu-h.png) 0 0 repeat-x; }
 #nav ul li:hover {}
 #nav ul li ul {position:absolute;width:180px;left:-999em;border-top:0; margin:0; padding:0;}
 #nav ul li:hover ul, #menu ul li.sfHover ul {left:0;}
@@ -96,30 +96,30 @@ text-transform: uppercase; font-size:12px;font-weight:normal; font-family: 'Cupr
 #sidebar .module ul.menu{margin:5px 0 0 0; padding:0;list-style:none; padding:0; list-style-type:none;}
 #sidebar .module ul.menu li{ list-style:none; list-style-type:none;margin:0; padding:0; }
 #sidebar .module ul.menu li a {background-color:#f1f1f1;border-bottom: 1px solid #FFFFFF;color: #575757;display: block;padding: 3px 15px 3px 5px;text-decoration: none; text-align: left;}
-#sidebar .module ul.menu li a:hover { color: #575757; background: url(http://pharmacology.med.unideb.hu/templates/constructionco-qjt/images/sidehover.jpg) 100% -50px no-repeat #fff;}
+#sidebar .module ul.menu li a:hover { color: #575757; background: url(../images/sidehover.jpg) 100% -50px no-repeat #fff;}
 #sidebar .module ul.menu li.active a{color:#058CA1;}
 #sidebar .module ul.menu li ul {margin:0;}
 #sidebar .module ul.menu li ul li {background:none; border:none; margin: 0 0 0 15px;   }
 #sidebar .module ul.menu li ul li a{ border: 0; color:#999; background:none;text-align:left; padding-left: 11px;}
-#sidebar .module ul.menu li ul li a:hover{color: #575757; background: url(http://pharmacology.med.unideb.hu/templates/constructionco-qjt/images/sidehover.jpg) 100% -50px no-repeat #fff; }
+#sidebar .module ul.menu li ul li a:hover{color: #575757; background: url(../images/sidehover.jpg) 100% -50px no-repeat #fff; }
 #sidebar .module ul.menu li.active ul li a{color: #6e99c2;}
 #sidebar .module ul.menu li ul li.active a, #sidebar .module ul.menu li.active ul li a:hover{color:#134E8B;}
 
 /* Content */
 #main { margin: 11px auto 0; position: relative;}
 #main-content { clear:both;background:#fff;position:relative; padding: 9px; height:100%;color: #555;}
-.shadow {background:url(http://pharmacology.med.unideb.hu/templates/constructionco-qjt/images/shadow.png) repeat-y 50% transparent; margin-top: 5px; margin: 0 auto; width: 995px;}
-.shadowtop {background-image: url(http://pharmacology.med.unideb.hu/templates/constructionco-qjt/images/shadowtop.png);height: 7px;margin: 30px auto -30px;width: 995px;}
+.shadow {background:url(../images/shadow.png) repeat-y 50% transparent; margin-top: 5px; margin: 0 auto; width: 995px;}
+.shadowtop {background-image: url(../images/shadowtop.png);height: 7px;margin: 30px auto -30px;width: 995px;}
 
 #maincol {position: relative;}
 #wrapper {margin:0 auto; width:980px; margin-top: 30px; padding:0;position: relative; }
 #crdt {border:0;float:right;color:#708090;width:50%;line-height:10px;font-size:10px;margin:-220% 0 0 0;overflow:hidden;padding:0}
 #crdt a{color:#708090;}
-.top1 {background:url(http://pharmacology.med.unideb.hu/templates/constructionco-qjt/images/main-top.png) 0 0 no-repeat;clear:both;}
-.top2 {background: url(http://pharmacology.med.unideb.hu/templates/constructionco-qjt/images/main-top.png) 100% 100% no-repeat; }
+.top1 {background:url(../images/main-top.png) 0 0 no-repeat;clear:both;}
+.top2 {background: url../images/main-top.png) 100% 100% no-repeat; }
 .top3 { background: #fff; height: 6px;margin:0 6px;}
-.bot1 {background:url(http://pharmacology.med.unideb.hu/templates/constructionco-qjt/images/main-bot.png) 0 0 no-repeat;clear:both;}
-.bot2 {background: url(http://pharmacology.med.unideb.hu/templates/constructionco-qjt/images/main-bot.png) 100% 100% no-repeat;}
+.bot1 {background:url(../images/main-bot.png) 0 0 no-repeat;clear:both;}
+.bot2 {background: url(../images/main-bot.png) 100% 100% no-repeat;}
 .bot3 { background: #fff; height: 6px;margin:0 6px;}
 
 #leftcolumn{margin-left:9px;padding:0px;width:205px;float:left;}
@@ -161,7 +161,7 @@ h2.item-page-title a:hover, .leading-0 a:hover{color:#c4c4c4; text-decoration: u
 .iteminfo .createdby {font-weight:bold; display:block}
 .items-more {clear:both; padding:10px;} h3.items-more { font-size:14px; padding:0; margin:0;}
 .items-more ol { margin:0 0 0 30px; padding:0}
-th.list-title, th.list-author,th.list-hits,th.list-date  { background:#3F332E url(http://pharmacology.med.unideb.hu/templates/constructionco-qjt/images/h3.png) 0 0 repeat-x; padding:2px; border-right:1px solid #fff; color:#fff;}
+th.list-title, th.list-author,th.list-hits,th.list-date  { background:#3F332E url(../images/h3.png) 0 0 repeat-x; padding:2px; border-right:1px solid #fff; color:#fff;}
 th.list-title a, th.list-author a,th.list-hits a,th.list-date a { color:#fff; font-weight:bold}
 td.list-title, td.list-author, td.list-hits, td.list-date { border-bottom:1px dotted #ccc;}
 td.list-title { width:50%;}
@@ -182,7 +182,7 @@ td.list-date { width:15%;text-align:center;}
 
 
 /* Contact styles */
-th.item-num, th.item-title,th.item-position,th.item-phone,th.item-suburb,th.item-state { background:#3F332E url(http://pharmacology.med.unideb.hu/templates/constructionco-qjt/images/h3.png) 0 0 repeat-x; padding: 2px 2px 2px 7px; border-right:1px solid #fff; color:#fff; text-align:left;}
+th.item-num, th.item-title,th.item-position,th.item-phone,th.item-suburb,th.item-state { background:#3F332E url(../images/h3.png) 0 0 repeat-x; padding: 2px 2px 2px 7px; border-right:1px solid #fff; color:#fff; text-align:left;}
 th.item-num a, th.item-title a,th.item-position a,th.item-phone a,th.item-suburb a,th.item-state a {color:#fff}
 td.item-num {width:5%; text-align:left;}
 td.item-title {width:25%; text-align:left;}
@@ -213,7 +213,7 @@ span.pagination { background:none;}
 .pagination a, ul.pagenav li a {  font-weight: bold; text-decoration:underline}
 .button, .validate {  background: none repeat scroll 0 0 #757474;border: 1px solid #555555;color: #FFFFFF;font-weight: normal;margin: 4px;padding: 1px 12px;}
 .button:hover,.validate:hover,.pagination a:hover,ul.pagenav li a:hover  {background:#3A759E;color:#fff;}
-.inputbox, input, textarea, select {background:url("http://pharmacology.med.unideb.hu/templates/constructionco-qjt/images/buttonbg.jpg") repeat-x scroll 0 0 transparent; height:20px; border:1px solid #e1e1e1; color:#13618d; -moz-border-radius: 4px; border-radius: 4px; padding-right: 4px;}
+.inputbox, input, textarea, select {background:url("../images/buttonbg.jpg") repeat-x scroll 0 0 transparent; height:20px; border:1px solid #e1e1e1; color:#13618d; -moz-border-radius: 4px; border-radius: 4px; padding-right: 4px;}
 .breadcrumbs { padding:0 0 0 10px; color:#555;}
 
 /* Search Module */
