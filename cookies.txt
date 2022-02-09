@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.uni-miskolc.hu	TRUE	/	FALSE	1999999999	PHPSESSID	62t4b9d0tgt87fusnrhih4pb12
+www.uni-miskolc.hu	TRUE	/	FALSE	1999999999	selected_project	0
+pharmacology.med.unideb.hu	TRUE	/	FALSE	1999999999	e0022acfa9ce957e2fac0798a705539d	b3021b845e62e6073dd2dfb5e9fb0e98
+

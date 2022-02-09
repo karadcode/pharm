@@ -1,0 +1,1 @@
+for %a in ("*.pdf") do "C:\deleteme\qpdf-10.4.0\bin\qpdf.exe" --replace-input --decrypt --password="12358" "%a"

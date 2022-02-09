@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 15 Dec 2021 01:17:02 at http://pharmacology.med.unideb.hu/index.php/altalanos-orvos +*.png +*.gif +*.jpg +*.jpeg +*.css +*.pdf -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwr2%e2C2%Pns2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://pharmacology.med.unideb.hu/index.php/altalanos-orvos -O1 "C:\My Web Sites\pharm" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.pdf -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:41:31	Error: 	"Not Found" (404) at link https://www.uni-miskolc.hu/~wwwjuris/latin.pdf (from pharmacology.med.unideb.hu/index.php/altalanos-orvos)
+01:41:31	Error: 	"Not Found" (404) at link pharmacology.med.unideb.hu/images/pdf/Diuretics.pdf (from pharmacology.med.unideb.hu/index.php/altalanos-orvos)
+01:41:31	Error: 	"Not Found" (404) at link pharmacology.med.unideb.hu/images/pdf/Calcium Channel Blockers.pdf (from pharmacology.med.unideb.hu/index.php/altalanos-orvos)
+01:41:31	Error: 	"Not Found" (404) at link pharmacology.med.unideb.hu/images/pdf/obesitas farmakoterápiája.pdf (from pharmacology.med.unideb.hu/index.php/altalanos-orvos)
+01:41:31	Error: 	"Not Found" (404) at link pharmacology.med.unideb.hu/images/pdf/GI_motilitast_befolyasolo_szerek.pdf (from pharmacology.med.unideb.hu/index.php/altalanos-orvos)
+01:41:31	Error: 	"Not Found" (404) at link pharmacology.med.unideb.hu/images/pdf/M_opioids_ea.pdf (from pharmacology.med.unideb.hu/index.php/altalanos-orvos)
+01:41:31	Error: 	"Not Found" (404) at link pharmacology.med.unideb.hu/images/pdf/Benko/Csont2019.pdf (from pharmacology.med.unideb.hu/index.php/altalanos-orvos)
+01:41:31	Error: 	"Not Found" (404) at link pharmacology.med.unideb.hu/images/pdf/Benko/BI-Obesity-pharmacotherapy.pdf (from pharmacology.med.unideb.hu/index.php/altalanos-orvos)
+01:41:31	Error: 	"Not Found" (404) at link pharmacology.med.unideb.hu/images/pdf/Benko/BI-Pharmacotherapy-of-reumatoid-artritis.pdf (from pharmacology.med.unideb.hu/index.php/altalanos-orvos)
+01:41:31	Error: 	"Not Found" (404) at link pharmacology.med.unideb.hu/images/pdf/Benko/Bone2019.pdf (from pharmacology.med.unideb.hu/index.php/altalanos-orvos)
+01:41:31	Error: 	"Not Found" (404) at link pharmacology.med.unideb.hu/images/pdf/Diuretics agents.pdf (from pharmacology.med.unideb.hu/index.php/altalanos-orvos)
+01:41:40	Warning: 	Warning: store text/css without scan: C:/My Web Sites/pharm/pharmacology.med.unideb.hu/modules/mod_rizlogin/style/grey1/css.css
+
+HTTrack Website Copier/3.49-2 mirror complete in 24 minutes 38 seconds : 241 links scanned, 228 files written (299445748 bytes overall) [298869202 bytes received at 202211 bytes/sec], 952050 bytes transferred using HTTP compression in 54 files, ratio 30%, 2.1 requests per connection
+(11 errors, 1 warnings, 0 messages)
